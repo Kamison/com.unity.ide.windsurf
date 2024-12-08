@@ -6,3 +6,6 @@
 - Insert <code>https://github.com/Kamison/com.unity.ide.windsurf.git</code><br>
 - Add<br>
 - Done
+
+Thanks to boxqkrtm's wonderful work:
+https://github.com/boxqkrtm/com.unity.ide.cursor
